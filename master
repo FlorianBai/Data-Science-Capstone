@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/FlorianBai/Data-Science-Capstone.git
 git push -u origin main
+
+$ jupyter trust lab_jupyter_launch_site_location (1).ipynb
